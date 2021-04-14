@@ -1,1 +1,3 @@
-config-master-info
+config:
+  info:
+   config-master-info
